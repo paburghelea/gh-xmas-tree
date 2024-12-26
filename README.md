@@ -9,7 +9,7 @@ This is a simplified Christmas tree created using Grasshopper 1.0.007 and Rhinoc
 - No more than 1 level deep clusters
 - Organising inputs to the left and outputs to the right of the canvas
 
-All geometry is internalised and there are no third-party library dependencies! 
+All geometry is internalised and there are no third-party library dependencies besides Human for nicer lines using [Custom Preview Lineweights](https://grasshopperdocs.com/components/human/customPreviewLineweights.html)! 
 ![Canavas view](/assets/canvas.png)
 
 To run you just need to drag and drop the definition in your canvas. Feel free to explore the definition!
